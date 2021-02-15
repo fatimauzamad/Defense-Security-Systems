@@ -35,7 +35,6 @@ Armoured Personnel Carriers (APC) and Armoured Patrol Vehicles (APV) are the big
 - LAV-700 IFV in IFV Category.
 - LM13 and Bastion in APC/APV Category.
 
-
 ![](viz/armouredvehicle_ksa.png)
 
 #### Sensors
